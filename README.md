@@ -21,7 +21,7 @@ Antes de presentar las imágenes del proyecto, es importante destacar que hemos 
 
 ### ```Inicios de sesión``` de la aplicación
 
-A continuación, se presentan las imágenes correspondientes a los inicios de sesiones para determinados tipos de Usuario.
+A continuación, se presentan las imágenes correspondientes a los inicios de sesiones para determinados tipos de usuarios.
 <p align="center">
   <img src="./IMG/1.PNG" alt="Descripción de la imagen">
 </p>
