@@ -1,8 +1,8 @@
 # Proyecto: ```smartAQ```
 
-El proyecto que se presenta a continuación fue diseñado y creado como producto mínimo viable (MVP) durante la asignatura de ```Taller empresarial de innovación y emprendimiento```, ocupando la metodología tradicional iterativa. Su intención es contribuir al cuidado de la salud de las personas mediante la construcción de una aplicación gratuita para aquellos que se registren en la plataforma web. Esta aplicación proporciona información sobre el material particulado y otras mediciones de interés, así como otros beneficios relacionados con el cuidado del medio ambiente.
+El siguiente proyecto fue diseñado y creado durante la cursada de la asignatura ```Taller empresarial de innovación y emprendimiento``` en la Universidad de La Frontera como producto mínimo viable (MVP), ocupando la metodología tradicional iterativa. La intención del proyecto es contribuir al cuidado de la salud de las personas mediante una aplicación gratuita que proporciona información sobre el material particulado y otras mediciones de interés, así como otros beneficios relacionados con el cuidado del medio ambiente.
 
-Si algún reclutador está interesado en obtener más detalles, puede ponerse en contacto conmigo a través de mi correo electrónico: manriquezfernando.ns@gmail.com
+Si algún reclutador está interesado en obtener más detalles, puede ponerse en contacto a través de mi correo electrónico: manriquezfernando.ns@gmail.com
 
 ### Stack de tecnologías.
 <p align="center">
@@ -10,8 +10,8 @@ Si algún reclutador está interesado en obtener más detalles, puede ponerse en
 </p>
 Para la creación de la plataforma web, se ocuparon principalmente frameworks de Java como SpringMVC, para separar la lógica y los modelos de la vista e Hibernate para conectarse a la base de datos. Además, con fines académicos, se ocupó Python3 para enviar mediciones a la base de datos a la que se conecta la aplicación, con el fin de simular las estaciones distribuidas en el mapa de la plataforma.
 
-#### Cabe mencionar que los casos de uso totales de la aplicacion se mantienen en reserva. Además, es importante destacar que la plataforma web es un prototipo, no una versión comercial ni patentada, y que su versión ha sido actualizada en este año 2023.  
-Antes de presentar las imágenes del proyecto, es importante destacar que hemos obtenido una ```calificación máxima de 7.0``` en relación a nuestro producto mínimo viable. En este sentido, se nos ha entregado un certificado que valida la calidad del trabajo. A continuación, se muestra el certificado correspondiente.
+#### Cabe mencionar que los casos de uso totales de la aplicacion se mantienen en reserva. Además, es importante destacar que la plataforma web es un prototipo, no una versión comercial ni patentada, y que el cóigo fuente ha sido actualizado en este año 2023.  
+Antes de presentar las imágenes del proyecto, es importante destacar que hemos obtenido una ```calificación máxima de 7.0``` en relación a nuestro producto mínimo viable. En este sentido, se nos ha entregado un certificado que valida la calidad del trabajo.
 
 <p align="center">
   <img src="./IMG/Certificado.PNG" alt="Descripción de la imagen">
@@ -19,7 +19,6 @@ Antes de presentar las imágenes del proyecto, es importante destacar que hemos 
 
 ## ```Inicios de sesión``` de la aplicación
 
-A continuación, se presentan las imágenes correspondientes a los inicios de sesiones para determinados tipos de usuarios.
 <p align="center">
   <img src="./IMG/1.PNG" alt="Descripción de la imagen">
 </p>
@@ -37,7 +36,7 @@ El siguiente caso de uso permite a un tipo de usuario en particular acceder a la
 </p>
 
 ## ```Agregar AQ-Device```
-Este caso de uso permite a un tipo específico de usuario agregar dispositivos mediante un mapa interactivo que incluye numerosas funcionalidades. Además, el mapa actualiza la coordenada del marcador a medida que el usuario lo arrastra a una nueva ubicación. 
+Este caso de uso permite a un tipo específico de usuario agregar dispositivos mediante un mapa interactivo que incluye numerosas funcionalidades. Además, la coordenada del marcador se actualiza a medida que el usuario lo arrastra a una nueva ubicación. 
 
 <p align="center">
   <img src="./IMG/4.PNG" alt="Descripción de la imagen">
